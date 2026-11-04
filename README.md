@@ -1,6 +1,4 @@
-# Clasificador Bayes Ingenuo (HTML + CSS + JavaScript vanilla)
-
-Abre `index.html` en el navegador. No necesita servidor ni instalar nada.
+# Clasificador Bayes Ingenuo (HTML + CSS + JavaScript)
 
 ## Estructura
 - `index.html`: interfaz.
